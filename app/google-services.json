@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673175802976",
+    "project_id": "qatra-7549e",
+    "storage_bucket": "qatra-7549e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673175802976:android:f73cd053658e1540da9f05",
+        "android_client_info": {
+          "package_name": "com.helic.wiggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673175802976-36h7rmaddi29al747bb4619s3jqoamln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpjo-Nbg-F3SjwjOuPx7R4J_n47Z5k3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673175802976-36h7rmaddi29al747bb4619s3jqoamln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
